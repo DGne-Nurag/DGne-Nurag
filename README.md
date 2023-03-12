@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on interesting stuff
 - 📫 How to reach me:
   - GitHub: DGne-Nurag
-  - Twitter: [@gnedler](https://twitter.com/gnedler)
 
 <!---
 DGne-Nurag/DGne-Nurag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
